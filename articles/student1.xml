@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>test</title>
-            <author>Author 1</author>
+            <title>Los Angeles City Hall</title> 
+            <author>Genevieve Carpio</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,30 +30,30 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>Article text goes here...</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis convallis justo, non mollis orci feugiat id. Vivamus nec porttitor nisl. Sed fringilla, leo id interdum congue, lacus turpis mollis orci, nec malesuada neque lorem venenatis ante. Proin tempor libero non consectetur bibendum. In congue dolor et molestie laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis convallis justo, non mollis orci feugiat id. Vivamus nec porttitor nisl. Sed fringilla, leo id interdum congue, lacus turpis mollis orci, nec malesuada neque lorem venenatis ante. Proin tempor libero non consectetur bibendum. In congue dolor et molestie laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis convallis justo, non mollis orci feugiat id. Vivamus nec porttitor nisl. Sed fringilla, leo id interdum congue, lacus turpis mollis orci, nec malesuada neque lorem venenatis ante. Proin tempor libero non consectetur bibendum. In congue dolor et molestie laoreet.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Article title, Placename</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Brief description, quote, or summary here.</p>
+            <placeName type="arts">Los Angeles City Hall</placeName>
+            <geo>-118.243 34.0536</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis convallis justo, non mollis orci feugiat id. Vivamus nec porttitor.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
+               <bibl>Citation 1</bibl>
+               <bibl>Citation 2</bibl>
             </listBibl>
          </div>
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="../images/nameofimage.jpg"/>
+               <graphic url="https://ucla.box.com/shared/static/t7c80xq1solgi8x5gwbtvprnck80loga.jpg"/>
                <head></head>
-               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <note type="attribution">Genevieve Carpio, 22 Janaury 2016, Courtesy of Genevieve Carpio</note>
                <figDesc></figDesc>
             </figure>
             

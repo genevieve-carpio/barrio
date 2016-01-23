@@ -37,7 +37,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Los Angeles City Hall</placeName>
+            <placeName type="Genevieve Carpio">Los Angeles City Hall</placeName>
             <geo>-118.243 34.0536</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis convallis justo, non mollis orci feugiat id. Vivamus nec porttitor.</p>
          </note>
